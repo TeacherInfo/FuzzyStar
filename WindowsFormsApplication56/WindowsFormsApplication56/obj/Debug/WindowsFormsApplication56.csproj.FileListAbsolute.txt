@@ -1,0 +1,18 @@
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.exe.config
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.Form1.resources
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.Properties.Resources.resources
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.csproj.GenerateResource.Cache
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.exe
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.exe
+c:\users\oleg\documents\visual studio 2012\Projects\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.pdb
+G:\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.exe.config
+G:\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.exe
+G:\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.pdb
+G:\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.exe
+G:\WindowsFormsApplication56\WindowsFormsApplication56\bin\Debug\WindowsFormsApplication56.pdb
+G:\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.Form1.resources
+G:\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.Properties.Resources.resources
+G:\WindowsFormsApplication56\WindowsFormsApplication56\obj\Debug\WindowsFormsApplication56.csproj.GenerateResource.Cache
